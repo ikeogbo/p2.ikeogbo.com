@@ -1,0 +1,70 @@
+2013-11-14 0:00:03 - INFO --> -------------------------- 
+2013-11-14 0:00:03 - INFO --> Controller/Method: users/signup 
+2013-11-14 0:00:03 - INFO --> From: sources (ikeogbo@ikeogbo.com) 
+2013-11-14 0:00:03 - INFO --> To: sources (ikeogbo@gmail.com),  
+2013-11-14 0:00:03 - INFO --> CC:  
+2013-11-14 0:00:03 - INFO --> BCC:  
+2013-11-14 0:00:03 - INFO --> Subject: sources SQL Error 
+2013-11-14 0:00:03 - INFO --> Body: <h2>SQL Error</h2>Access denied for user 'ikeogboc_p2'@'localhost' (using password: YES)<h2>Query History</h2><h2>Routed Controller/Method:</h2> users/signup<br/><h2>Cookies</h2><pre>Array
+(
+    [PHPSESSID] => h02cql4a0444k89t17udd61s24
+    [token] => 9b0a7044dfefe334d292b9782da6a292296e05df
+)
+</pre 
+2013-11-14 0:00:04 - INFO --> FAILED TO SEND EMAIL 
+2013-11-14 0:01:24 - INFO --> -------------------------- 
+2013-11-14 0:01:24 - INFO --> Controller/Method: index/index 
+2013-11-14 0:01:24 - INFO --> From: sources (ikeogbo@ikeogbo.com) 
+2013-11-14 0:01:24 - INFO --> To: sources (ikeogbo@gmail.com),  
+2013-11-14 0:01:24 - INFO --> CC:  
+2013-11-14 0:01:24 - INFO --> BCC:  
+2013-11-14 0:01:24 - INFO --> Subject: sources SQL Error 
+2013-11-14 0:01:24 - INFO --> Body: <h2>SQL Error</h2>Access denied for user 'ikeogboc_p2'@'localhost' (using password: YES)<h2>Query History</h2><h2>Routed Controller/Method:</h2> index/index<br/><h2>Cookies</h2><pre>Array
+(
+    [PHPSESSID] => h02cql4a0444k89t17udd61s24
+    [token] => 9b0a7044dfefe334d292b9782da6a292296e05df
+)
+</pre> 
+2013-11-14 0:01:25 - INFO --> FAILED TO SEND EMAIL 
+2013-11-14 0:02:05 - INFO --> -------------------------- 
+2013-11-14 0:02:05 - INFO --> Controller/Method: index/index 
+2013-11-14 0:02:05 - INFO --> From: sources (ikeogbo@ikeogbo.com) 
+2013-11-14 0:02:05 - INFO --> To: sources (ikeogbo@gmail.com),  
+2013-11-14 0:02:05 - INFO --> CC:  
+2013-11-14 0:02:05 - INFO --> BCC:  
+2013-11-14 0:02:05 - INFO --> Subject: sources SQL Error 
+2013-11-14 0:02:05 - INFO --> Body: <h2>SQL Error</h2>Access denied for user 'ikeogboc_p2'@'localhost' (using password: YES)<h2>Query History</h2><h2>Routed Controller/Method:</h2> index/index<br/><h2>Cookies</h2><pre>Array
+(
+    [PHPSESSID] => h02cql4a0444k89t17udd61s24
+    [token] => 9b0a7044dfefe334d292b9782da6a292296e05df
+)
+</pre> 
+2013-11-14 0:02:06 - INFO --> FAILED TO SEND EMAIL 
+2013-11-14 0:02:11 - INFO --> -------------------------- 
+2013-11-14 0:02:11 - INFO --> Controller/Method: users/signup 
+2013-11-14 0:02:11 - INFO --> From: sources (ikeogbo@ikeogbo.com) 
+2013-11-14 0:02:11 - INFO --> To: sources (ikeogbo@gmail.com),  
+2013-11-14 0:02:11 - INFO --> CC:  
+2013-11-14 0:02:11 - INFO --> BCC:  
+2013-11-14 0:02:11 - INFO --> Subject: sources SQL Error 
+2013-11-14 0:02:11 - INFO --> Body: <h2>SQL Error</h2>Access denied for user 'ikeogboc_p2'@'localhost' (using password: YES)<h2>Query History</h2><h2>Routed Controller/Method:</h2> users/signup<br/><h2>Cookies</h2><pre>Array
+(
+    [PHPSESSID] => h02cql4a0444k89t17udd61s24
+    [token] => 9b0a7044dfefe334d292b9782da6a292296e05df
+)
+</pre 
+2013-11-14 0:02:12 - INFO --> FAILED TO SEND EMAIL 
+2013-11-14 0:02:22 - INFO --> -------------------------- 
+2013-11-14 0:02:22 - INFO --> Controller/Method: users/p_login 
+2013-11-14 0:02:22 - INFO --> From: sources (ikeogbo@ikeogbo.com) 
+2013-11-14 0:02:22 - INFO --> To: sources (ikeogbo@gmail.com),  
+2013-11-14 0:02:22 - INFO --> CC:  
+2013-11-14 0:02:22 - INFO --> BCC:  
+2013-11-14 0:02:22 - INFO --> Subject: sources SQL Error 
+2013-11-14 0:02:22 - INFO --> Body: <h2>SQL Error</h2>Access denied for user 'ikeogboc_p2'@'localhost' (using password: YES)<h2>Query History</h2><h2>Routed Controller/Method:</h2> users/p_login<br/><h2>Cookies</h2><pre>Array
+(
+    [PHPSESSID] => h02cql4a0444k89t17udd61s24
+    [token] => 9b0a7044dfefe334d292b9782da6a292296e05df
+)
+</pr 
+2013-11-14 0:02:23 - INFO --> FAILED TO SEND EMAIL 

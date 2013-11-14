@@ -7,6 +7,8 @@
 
 	
 	<!-- Controller Specific JS/CSS -->
+    <link rel="stylesheet" type="text/css" href="/css/sample-app.css">
+	
 	<?php if(isset($client_files_head)) echo $client_files_head; ?>
 	
 </head>
@@ -17,29 +19,40 @@
 
 	
     <div id='menu'>
-
-        <a href='/'>Home</a>
+        <img src="NaijaSources.jpg" alt="logo image" class="logo" />
+  
 
         <!-- Menu for users who are logged in -->
         <?php if($user): ?>
 
             <a href='/users/logout'>Logout</a>
             <a href='/users/profile'>Profile</a>
+			<a href='/posts'>Posts</a>
+            <a href='/users/profile'>Profile</a>
+            <a href='/users/logout'>Logout</a>
 
         <!-- Menu options for users who are not logged in -->
         <?php else: ?>
-
+			<a href='/'>Home</a>
             <a href='/users/signup'>Sign up</a>
             <a href='/users/login'>Log in</a>
+
 
         <?php endif; ?>
 
     </div>
 
     <br>
-    <?php if(isset($content)) echo $content; ?>
+     </div>
 
-	<?php if(isset($client_files_body)) echo $client_files_body; ?>
+	 <div id='content'>
+
+     	 <?php if(isset($content)) echo $content; ?>
+	 </div>
+
+    <div id='filebody'>
+         <?php if(isset($client_files_body)) echo $client_files_body; ?>
+    </div>
 	<!-- ?php if(isset($content)) echo $content; ?> -->
   
 </body>

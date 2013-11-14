@@ -1,11 +1,11 @@
 <?php if ($user):?>
-	<pre>
-	<?php
-	print_r($user);
-	?>
-	</pre>
+
 Hello <?=$user->first_name;?>
     <?php else:?>
-Welcome to Sources. Please  sign up or Log in
+	 <div class='welcome'>
+           Welcome to Sources. Please  sign up or Log in<br/>
+     </div>
       <?php endif; ?>
+	  
+	  
 	  
