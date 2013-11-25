@@ -10,6 +10,7 @@ body {
 
 a, a:visited{
         text-decoration: none;
+		        color: #fff;
 }
 
 input {
@@ -26,7 +27,7 @@ textarea {
 
 #menu {
         background-position: 0 0;
-        background-color: #8A2BE2;
+        background-color: #000000;
 		text-align: center;
         height: 100px;
         margin-bottom: 40px;
@@ -50,9 +51,15 @@ textarea {
         border:20px solid Black;
 }
 
+.error{
+        color: red;
+        font-weight: bold;
+        text-align: center;
+}
 
 .welcome{
         font-size: 24px;
         font-weight: bold;
-        text-align: center;
 }
+
+

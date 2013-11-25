@@ -1,4 +1,4 @@
-<form method='POST' action='/users/p_signup'>
+<form name="" method='POST' action='/users/p_signup'onsubmit="return validateForm();">
 
     First Name<br>
     <input type='text' name='first_name'>
@@ -11,6 +11,11 @@
     Email<br>
     <input type='text' name='email'>
     <br><br>
+	
+	
+
+	
+	
 
     Password<br>
     <input type='password' name='password'>

@@ -1,0 +1,182 @@
+2013-11-24 11:13:43 - INFO --> -------------------------- 
+2013-11-24 11:13:43 - INFO --> Controller/Method: index/index 
+2013-11-24 11:13:43 - INFO --> From: sources (ikeogbo@ikeogbo.com) 
+2013-11-24 11:13:43 - INFO --> To: sources (ikeogbo@gmail.com),  
+2013-11-24 11:13:43 - INFO --> CC:  
+2013-11-24 11:13:43 - INFO --> BCC:  
+2013-11-24 11:13:43 - INFO --> Subject: sources SQL Error 
+2013-11-24 11:13:43 - INFO --> Body: <h2>SQL Error</h2>Access denied for user 'ikeogboc_p2'@'localhost' (using password: YES)<h2>Query History</h2><h2>Routed Controller/Method:</h2> index/index<br/><h2>Cookies</h2><pre>Array
+(
+    [token] => 9b0a7044dfefe334d292b9782da6a292296e05df
+    [PHPSESSID] => 8eeek1jho40da3tu6h34vtbms4
+)
+</pre> 
+2013-11-24 11:13:44 - INFO --> FAILED TO SEND EMAIL 
+2013-11-24 11:20:11 - INFO --> -------------------------- 
+2013-11-24 11:20:11 - INFO --> Controller/Method: index/index 
+2013-11-24 11:20:11 - INFO --> From: sources (ikeogbo@gmail.com) 
+2013-11-24 11:20:11 - INFO --> To: sources (ikeogbo@gmail.com),  
+2013-11-24 11:20:11 - INFO --> CC:  
+2013-11-24 11:20:11 - INFO --> BCC:  
+2013-11-24 11:20:11 - INFO --> Subject: sources SQL Error 
+2013-11-24 11:20:11 - INFO --> Body: <h2>SQL Error</h2>Access denied for user 'ikeogboc_p2'@'localhost' (using password: YES)<h2>Query History</h2><h2>Routed Controller/Method:</h2> index/index<br/><h2>Cookies</h2><pre>Array
+(
+    [token] => 9b0a7044dfefe334d292b9782da6a292296e05df
+    [PHPSESSID] => 8eeek1jho40da3tu6h34vtbms4
+)
+</pre> 
+2013-11-24 11:20:12 - INFO --> FAILED TO SEND EMAIL 
+2013-11-24 11:21:01 - INFO --> -------------------------- 
+2013-11-24 11:21:01 - INFO --> Controller/Method: index/index 
+2013-11-24 11:21:01 - INFO --> From: sources (ikeogbo@gmail.com) 
+2013-11-24 11:21:01 - INFO --> To: sources (ikeogbo@gmail.com),  
+2013-11-24 11:21:01 - INFO --> CC:  
+2013-11-24 11:21:01 - INFO --> BCC:  
+2013-11-24 11:21:01 - INFO --> Subject: sources SQL Error 
+2013-11-24 11:21:01 - INFO --> Body: <h2>SQL Error</h2>Access denied for user 'ikeogboc_p2'@'localhost' (using password: YES)<h2>Query History</h2><h2>Routed Controller/Method:</h2> index/index<br/><h2>Cookies</h2><pre>Array
+(
+    [token] => 9b0a7044dfefe334d292b9782da6a292296e05df
+    [PHPSESSID] => 8eeek1jho40da3tu6h34vtbms4
+)
+</pre> 
+2013-11-24 11:21:02 - INFO --> FAILED TO SEND EMAIL 
+2013-11-24 11:27:39 - INFO --> -------------------------- 
+2013-11-24 11:27:39 - INFO --> Controller/Method: index/index 
+2013-11-24 11:27:39 - INFO --> From: sources (ikeogbo@gmail.com) 
+2013-11-24 11:27:39 - INFO --> To: sources (ikeogbo@gmail.com),  
+2013-11-24 11:27:39 - INFO --> CC:  
+2013-11-24 11:27:39 - INFO --> BCC:  
+2013-11-24 11:27:39 - INFO --> Subject: sources SQL Error 
+2013-11-24 11:27:39 - INFO --> Body: <h2>SQL Error</h2>php_network_getaddresses: getaddrinfo failed: No such host is known. <h2>Query History</h2><h2>Routed Controller/Method:</h2> index/index<br/><h2>Cookies</h2><pre>Array
+(
+    [token] => 9b0a7044dfefe334d292b9782da6a292296e05df
+    [PHPSESSID] => 8eeek1jho40da3tu6h34vtbms4
+)
+</pre>< 
+2013-11-24 11:27:40 - INFO --> FAILED TO SEND EMAIL 
+2013-11-24 11:27:51 - INFO --> -------------------------- 
+2013-11-24 11:27:51 - INFO --> Controller/Method: index/index 
+2013-11-24 11:27:51 - INFO --> From: sources (ikeogbo@gmail.com) 
+2013-11-24 11:27:51 - INFO --> To: sources (ikeogbo@gmail.com),  
+2013-11-24 11:27:51 - INFO --> CC:  
+2013-11-24 11:27:51 - INFO --> BCC:  
+2013-11-24 11:27:51 - INFO --> Subject: sources SQL Error 
+2013-11-24 11:27:51 - INFO --> Body: <h2>SQL Error</h2>php_network_getaddresses: getaddrinfo failed: No such host is known. <h2>Query History</h2><h2>Routed Controller/Method:</h2> index/index<br/><h2>Cookies</h2><pre>Array
+(
+    [token] => 9b0a7044dfefe334d292b9782da6a292296e05df
+    [PHPSESSID] => 8eeek1jho40da3tu6h34vtbms4
+)
+</pre>< 
+2013-11-24 11:27:52 - INFO --> FAILED TO SEND EMAIL 
+2013-11-24 11:28:44 - INFO --> -------------------------- 
+2013-11-24 11:28:44 - INFO --> Controller/Method: index/index 
+2013-11-24 11:28:44 - INFO --> From: sources (ikeogbo@gmail.com) 
+2013-11-24 11:28:44 - INFO --> To: sources (ikeogbo@gmail.com),  
+2013-11-24 11:28:44 - INFO --> CC:  
+2013-11-24 11:28:44 - INFO --> BCC:  
+2013-11-24 11:28:44 - INFO --> Subject: sources SQL Error 
+2013-11-24 11:28:44 - INFO --> Body: <h2>SQL Error</h2>php_network_getaddresses: getaddrinfo failed: No such host is known. <h2>Query History</h2><h2>Routed Controller/Method:</h2> index/index<br/><h2>Cookies</h2><pre>Array
+(
+    [token] => 9b0a7044dfefe334d292b9782da6a292296e05df
+    [PHPSESSID] => 8eeek1jho40da3tu6h34vtbms4
+)
+</pre>< 
+2013-11-24 11:28:45 - INFO --> FAILED TO SEND EMAIL 
+2013-11-24 11:29:20 - INFO --> -------------------------- 
+2013-11-24 11:29:20 - INFO --> Controller/Method: index/index 
+2013-11-24 11:29:20 - INFO --> From: sources (ikeogbo@gmail.com) 
+2013-11-24 11:29:20 - INFO --> To: sources (ikeogbo@gmail.com),  
+2013-11-24 11:29:20 - INFO --> CC:  
+2013-11-24 11:29:20 - INFO --> BCC:  
+2013-11-24 11:29:20 - INFO --> Subject: sources SQL Error 
+2013-11-24 11:29:20 - INFO --> Body: <h2>SQL Error</h2>php_network_getaddresses: getaddrinfo failed: No such host is known. <h2>Query History</h2><h2>Routed Controller/Method:</h2> index/index<br/><h2>Cookies</h2><pre>Array
+(
+    [token] => 9b0a7044dfefe334d292b9782da6a292296e05df
+    [PHPSESSID] => 8eeek1jho40da3tu6h34vtbms4
+)
+</pre>< 
+2013-11-24 11:29:21 - INFO --> FAILED TO SEND EMAIL 
+2013-11-24 11:29:43 - INFO --> -------------------------- 
+2013-11-24 11:29:43 - INFO --> Controller/Method: index/index 
+2013-11-24 11:29:43 - INFO --> From: sources (ikeogbo@gmail.com) 
+2013-11-24 11:29:43 - INFO --> To: sources (ikeogbo@gmail.com),  
+2013-11-24 11:29:43 - INFO --> CC:  
+2013-11-24 11:29:43 - INFO --> BCC:  
+2013-11-24 11:29:43 - INFO --> Subject: sources SQL Error 
+2013-11-24 11:29:43 - INFO --> Body: <h2>SQL Error</h2>php_network_getaddresses: getaddrinfo failed: No such host is known. <h2>Query History</h2><h2>Routed Controller/Method:</h2> index/index<br/><h2>Cookies</h2><pre>Array
+(
+    [token] => 9b0a7044dfefe334d292b9782da6a292296e05df
+    [PHPSESSID] => 8eeek1jho40da3tu6h34vtbms4
+)
+</pre>< 
+2013-11-24 11:29:44 - INFO --> FAILED TO SEND EMAIL 
+2013-11-24 11:30:15 - INFO --> -------------------------- 
+2013-11-24 11:30:15 - INFO --> Controller/Method: index/index 
+2013-11-24 11:30:15 - INFO --> From: sources (ikeogbo@ikeogbo.com) 
+2013-11-24 11:30:15 - INFO --> To: sources (ikeogbo@gmail.com),  
+2013-11-24 11:30:15 - INFO --> CC:  
+2013-11-24 11:30:15 - INFO --> BCC:  
+2013-11-24 11:30:15 - INFO --> Subject: sources SQL Error 
+2013-11-24 11:30:15 - INFO --> Body: <h2>SQL Error</h2>php_network_getaddresses: getaddrinfo failed: No such host is known. <h2>Query History</h2><h2>Routed Controller/Method:</h2> index/index<br/><h2>Cookies</h2><pre>Array
+(
+    [token] => 9b0a7044dfefe334d292b9782da6a292296e05df
+    [PHPSESSID] => 8eeek1jho40da3tu6h34vtbms4
+)
+</pre>< 
+2013-11-24 11:30:16 - INFO --> FAILED TO SEND EMAIL 
+2013-11-24 11:30:49 - INFO --> -------------------------- 
+2013-11-24 11:30:49 - INFO --> Controller/Method: index/index 
+2013-11-24 11:30:49 - INFO --> From: sources (ikeogbo@ikeogbo.com) 
+2013-11-24 11:30:49 - INFO --> To: sources (ikeogbo@gmail.com),  
+2013-11-24 11:30:49 - INFO --> CC:  
+2013-11-24 11:30:49 - INFO --> BCC:  
+2013-11-24 11:30:49 - INFO --> Subject: sources SQL Error 
+2013-11-24 11:30:49 - INFO --> Body: <h2>SQL Error</h2>php_network_getaddresses: getaddrinfo failed: No such host is known. <h2>Query History</h2><h2>Routed Controller/Method:</h2> index/index<br/><h2>Cookies</h2><pre>Array
+(
+    [token] => 9b0a7044dfefe334d292b9782da6a292296e05df
+    [PHPSESSID] => 8eeek1jho40da3tu6h34vtbms4
+)
+</pre>< 
+2013-11-24 11:30:50 - INFO --> FAILED TO SEND EMAIL 
+2013-11-24 11:33:45 - INFO --> -------------------------- 
+2013-11-24 11:33:45 - INFO --> Controller/Method: index/index 
+2013-11-24 11:33:45 - INFO --> From: sources (ikeogbo@ikeogbo.com) 
+2013-11-24 11:33:45 - INFO --> To: sources (ikeogbo@gmail.com),  
+2013-11-24 11:33:45 - INFO --> CC:  
+2013-11-24 11:33:45 - INFO --> BCC:  
+2013-11-24 11:33:45 - INFO --> Subject: sources SQL Error 
+2013-11-24 11:33:45 - INFO --> Body: <h2>SQL Error</h2>Access denied for user 'ikeogboc_p2'@'localhost' (using password: YES)<h2>Query History</h2><h2>Routed Controller/Method:</h2> index/index<br/><h2>Cookies</h2><pre>Array
+(
+    [token] => 9b0a7044dfefe334d292b9782da6a292296e05df
+    [PHPSESSID] => 8eeek1jho40da3tu6h34vtbms4
+)
+</pre> 
+2013-11-24 11:33:46 - INFO --> FAILED TO SEND EMAIL 
+2013-11-24 11:37:03 - INFO --> -------------------------- 
+2013-11-24 11:37:03 - INFO --> Controller/Method: index/index 
+2013-11-24 11:37:03 - INFO --> From: sources (ikeogbo@ikeogbo.com) 
+2013-11-24 11:37:03 - INFO --> To: sources (ikeogbo@gmail.com),  
+2013-11-24 11:37:03 - INFO --> CC:  
+2013-11-24 11:37:03 - INFO --> BCC:  
+2013-11-24 11:37:03 - INFO --> Subject: sources SQL Error 
+2013-11-24 11:37:03 - INFO --> Body: <h2>SQL Error</h2>php_network_getaddresses: getaddrinfo failed: No such host is known. <h2>Query History</h2><h2>Routed Controller/Method:</h2> index/index<br/><h2>Cookies</h2><pre>Array
+(
+    [token] => 9b0a7044dfefe334d292b9782da6a292296e05df
+    [PHPSESSID] => 8eeek1jho40da3tu6h34vtbms4
+)
+</pre>< 
+2013-11-24 11:37:04 - INFO --> FAILED TO SEND EMAIL 
+2013-11-24 12:08:43 - INFO --> -------------------------- 
+2013-11-24 12:08:43 - INFO --> Controller/Method: index/index 
+2013-11-24 12:08:43 - INFO --> From: sources (ikeogbo@ikeogbo.com) 
+2013-11-24 12:08:43 - INFO --> To: sources (ikeogbo@gmail.com),  
+2013-11-24 12:08:43 - INFO --> CC:  
+2013-11-24 12:08:43 - INFO --> BCC:  
+2013-11-24 12:08:43 - INFO --> Subject: sources SQL Error 
+2013-11-24 12:08:43 - INFO --> Body: <h2>SQL Error</h2>php_network_getaddresses: getaddrinfo failed: No such host is known. <h2>Query History</h2><h2>Routed Controller/Method:</h2> index/index<br/><h2>Cookies</h2><pre>Array
+(
+    [token] => 9b0a7044dfefe334d292b9782da6a292296e05df
+    [PHPSESSID] => 8eeek1jho40da3tu6h34vtbms4
+)
+</pre>< 
+2013-11-24 12:08:44 - INFO --> FAILED TO SEND EMAIL 

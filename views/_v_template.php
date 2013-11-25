@@ -4,56 +4,53 @@
 	<title><?php if(isset($title)) echo $title; ?></title>
 
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />	
-
 	
 	<!-- Controller Specific JS/CSS -->
-    <link rel="stylesheet" type="text/css" href="/css/sample-app.css">
+	    <script language="javascript" src="/js/sample-app.js"></script>
+		<link rel="stylesheet" type="text/css" href="/css/sample-app.css">
 	
 	<?php if(isset($client_files_head)) echo $client_files_head; ?>
 	
 </head>
 
 <body>	
-
-
-
 	
     <div id='menu'>
-        <img src="NaijaSources.jpg" alt="logo image" class="logo" />
-  
+		<a href='/'> <img src="/views/sources.jpg" alt="logo image" class="logo" /></a>
+
+
 
         <!-- Menu for users who are logged in -->
         <?php if($user): ?>
-
+			<a href='/'>Home</a>
             <a href='/users/logout'>Logout</a>
             <a href='/users/profile'>Profile</a>
 			<a href='/posts'>Posts</a>
-            <a href='/users/profile'>Profile</a>
-            <a href='/users/logout'>Logout</a>
-
+			<a href='/posts/add'>Add Posts</a>
+			<a href='/posts/users'>Users</a>
+			
         <!-- Menu options for users who are not logged in -->
         <?php else: ?>
+
 			<a href='/'>Home</a>
             <a href='/users/signup'>Sign up</a>
             <a href='/users/login'>Log in</a>
-
 
         <?php endif; ?>
 
     </div>
 
-    <br>
-     </div>
+      <br>
+ 
 
-	 <div id='content'>
 
      	 <?php if(isset($content)) echo $content; ?>
-	 </div>
+	 
 
-    <div id='filebody'>
+
          <?php if(isset($client_files_body)) echo $client_files_body; ?>
-    </div>
+
 	<!-- ?php if(isset($content)) echo $content; ?> -->
-  
+  <p>I added javascript email validator to the forms</p>
 </body>
 </html>
