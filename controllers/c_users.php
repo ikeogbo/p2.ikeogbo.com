@@ -17,36 +17,38 @@ class users_controller extends base_controller {
 	   echo $this->template;
     }
 	
-	public function p_signup() {
-	 # Dump out the results of POST to see what the form submitted
+public function p_signup() {
 
-		
-		$_POST['created'] = TIME::now();
-		$_POST['password'] = sha1(PASSWORD_SALT.$_POST['password']);
-		$_POST['token'] = sha1(TOKEN_SALT.$_POST['email'].Utils::generate_random_string());
-		
-	    echo '<pre>';
-        print_r($_POST);
-        echo '</pre>';  
-		
-      DB::instance(DB_NAME)->insert_row('users', $_POST);
-	  
-	  #send them to login page
-	 // Router::redirect('/users/login');
-    }
+    # More data we want stored with the user
+    $_POST['created']  = Time::now();
+    $_POST['modified'] = Time::now();
+
+    # Encrypt the password  
+    $_POST['password'] = sha1(PASSWORD_SALT.$_POST['password']);            
+
+    # Create an encrypted token via their email address and a random string
+    $_POST['token'] = sha1(TOKEN_SALT.$_POST['email'].Utils::generate_random_string()); 
+
+    # Insert this user into the database 
+    $user_id = DB::instance(DB_NAME)->insert("users", $_POST);
+
+   
+    # send them to the login page
+    Router::redirect("/users/login");
+
+}
 
     public function login() {
 	$this->template->content = View::instance('v_users_login');
 	   echo $this->template;
     }
 
+
 	public function p_login(){
 	
 		$_POST['password'] = sha1(PASSWORD_SALT.$_POST['password']);
 		
-		echo '<pre>';
-        print_r($_POST);
-        echo '</pre>'; 
+ 
 		
 		$q = 
 		    'SELECT token
@@ -60,12 +62,14 @@ class users_controller extends base_controller {
 	  #success
 	  if($token) {
 	  setcookie('token', $token, strtotime('+1 year'),'/');
-	  echo "Thanks for loging in";
+	//  echo "Thanks for loging in";
+	    Router::redirect("/");
 	  }
 	  #Fail
 	  else {
 	  echo "Login failed. Please make sure you entered the correct username and password";
 	  }
+    # Send them back to the main index.
 
 	}
 	
